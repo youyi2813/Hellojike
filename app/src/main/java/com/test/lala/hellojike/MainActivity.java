@@ -12,6 +12,7 @@ public class MainActivity extends AppCompatActivity {
         for(int i = 0;i<2;i++)
             System.out.println(i);
         // 测试git push跟pull
+        // 平台修改了东西，未pull到本地
         setContentView(R.layout.activity_main);
     }
 }
