@@ -11,6 +11,7 @@ public class MainActivity extends AppCompatActivity {
         //TODO 帮我在这里协助做点事
         for(int i = 0;i<2;i++)
             System.out.println(i);
+        // 测试git push跟pull
         setContentView(R.layout.activity_main);
     }
 }
