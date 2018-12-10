@@ -13,7 +13,6 @@ public class MainActivity extends AppCompatActivity {
             // 本地修改，尝试push
             System.out.println(i+2);
         // 测试git push跟pull
-
         setContentView(R.layout.activity_main);
     }
 }
